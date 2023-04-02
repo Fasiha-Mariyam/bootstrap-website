@@ -1,0 +1,40 @@
+.nav-link{
+     text-transform: uppercase;
+     color: black;
+     letter-spacing: 2px;
+     font-weight: 400;
+}
+.navbar-brand{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.nav-link .navbar-brand:hover{
+     color: aliceblue;
+}
+h5{
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0;
+    font-size: 30px;
+}
+p{
+    color: aliceblue;
+   
+ font-size: 25px;
+}
+.img-fluid{
+    height: 50vh;
+}
+.col{
+    width: 90%;
+
+    padding-bottom: 5%;
+}
+.p-3{
+    width: 100%;
+    height: 100%;
+}
+#color{
+    color:#81e3f5;
+}
